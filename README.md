@@ -1,6 +1,6 @@
 # Ahmed Ali  👋
 Software Engineer | .NET & AI  
-[GitHub](https://github.com/AhmedAliDL) · [LinkedIn](https://www.linkedin.com/in/ahmed-ali-74808b276/) · ahmedalibahaa2003@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ahmed-ali-74808b276/) · ahmedalibahaa2003@gmail.com
 
 ---
 
