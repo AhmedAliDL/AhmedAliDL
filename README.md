@@ -18,11 +18,8 @@
 
 
 ---
-## 🚀 About Me
+<img width="1536" height="1024" alt="ChatGPT Image May 10, 2026, 10_20_54 PM" src="https://github.com/user-attachments/assets/a43fb160-a665-41b4-9f9d-cd824b408274" />
 
-<img align="right" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" width="300" />
-
-I'm a **Software Engineer** passionate about building **reliable, scalable, and maintainable systems**.  
 
 🔹 Specialized in **ASP.NET Core** ecosystem  
 🔹 Experienced in designing **high-performance APIs** & **optimized SQL queries**  
